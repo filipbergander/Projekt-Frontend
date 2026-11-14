@@ -8,12 +8,13 @@ Målet med mitt projekt är att skapa en tydlig, responsiv och användarvänlig 
 Genom att kombinera animationer och genomtänkt design strävar jag efter att utveckla en underhållande sida som är anpassad efter sin målgrupp. 
 Innehållet i applikationen presenteras och skapas främst med hjälp av JavasScript och SASS och är automatiserad genom VITE.
 
+<img width="534" height="539" alt="image" src="https://github.com/user-attachments/assets/d14ba157-6bc8-4f97-8ee0-7ff41307e0df" />
+
 Webbplats: https://travelbuddy-fb.netlify.app/
 
 JS dokumentation: https://travelbuddy-fb.netlify.app/docs/index.html
 
 Rapport: [Projektuppgift - Frontend baserad webbutveckling.pdf](https://github.com/user-attachments/files/26164922/Projektuppgift.-.Frontend.baserad.webbutveckling.pdf)
-
 
 **OBS:**
 Medtagit applikationen för testbranch genom en annan URL där jag inte använder bilderna inom listan av länder.
